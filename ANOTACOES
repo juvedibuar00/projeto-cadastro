@@ -1,0 +1,8 @@
+
+Após, no terminal rode os seguintes comandos
+npm init -y
+npm install express mysql2 cors body-parser
+
+
+
+node server.js
